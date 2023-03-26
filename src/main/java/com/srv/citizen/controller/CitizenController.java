@@ -1,6 +1,5 @@
 package com.srv.citizen.controller;
 
-import com.srv.citizen.CitizenApplication;
 import com.srv.citizen.entity.Citizen;
 import com.srv.citizen.service.CitizenService;
 import org.springframework.beans.factory.annotation.Autowired;
